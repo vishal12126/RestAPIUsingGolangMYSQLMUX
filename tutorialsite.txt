@@ -1,0 +1,31 @@
+https://medium.com/@hugo.bjarred/rest-api-with-golang-mux-mysql-c5915347fa5b
+
+imp link to solve issue
+:
+https://github.com/golang/lint/issues/191
+
+
+https://robertbasic.com/blog/build-and-run-golang-projects-in-vs-code/#:~:text=These%20tasks%20allow%20us%20to,This%20tasks.
+
+create task to run the project and use ctrl+shift+b to execute the task.
+
+It needs to be setup so that Code is found in your PATH. If you're on a mac system, do the following (for windows systems, read below):
+
+Launch VS Code
+Open up command palette (press F1) and type shell command to find Shell Command: Install 'code' command in PATH command.
+Restart terminal
+enter image description here
+
+If you're on Windows, you can also set the PATH manually by adding:
+
+C:\Program Files (x86)\Microsoft VS Code\bin
+to your PATH environment variable.
+
+Open command prompt
+type setx path "%path%;C:\Program Files (x86)\Microsoft VS Code\bin"
+Restart terminal
+
+
+
+###################
+https://www.bogotobogo.com/GoLang/GoLang_Visual_Studio_Code.php
